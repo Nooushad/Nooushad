@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<br />
+
 <a href="https://www.instagram.com/nm.limon/">
   <img align="left" alt="Noushad M." width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -19,8 +21,6 @@
 <a href="https://open.spotify.com/">
   <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-
-<br />
 
 ![](https://komarev.com/ghpvc/?username=Nooushad)
 
